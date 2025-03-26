@@ -4,12 +4,12 @@ Thanks for playing **Two Sharks**!
 
 If you're running into issues, have a feature idea, or just want to say hi — feel free to reach out.
 
-## 📬 Contact
+## Contact
 
-**Email**: [your@email.com]  
+**Email**: [ocrabit@outlook.com]  
 I'll try to respond within 2 business days.
 
-## 🐟 About the Game
+## About the Game
 
 Two Sharks is a simple reflex-based game where you control two sharks dodging lionfish and eating minnows. Nothing fancy, just a fun way to pass the time.
 
